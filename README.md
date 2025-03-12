@@ -12,6 +12,9 @@
 **CPU: Hygon C86 7285 32-core Processor**
 
 
+**Ubuntu 18.04**
+
+
 依赖包
 
 
